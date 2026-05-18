@@ -1,5 +1,5 @@
--- nama = lalu akbar huseyn
--- nim  = 24241065
+-- nama = Muhamad Rio Abdul Talib
+-- nim  = 24241056
 -- kls  = B
 -- modul = 2
 
